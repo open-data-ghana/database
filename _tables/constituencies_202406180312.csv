@@ -1,0 +1,276 @@
+"constituency_id","constituency_name","region_code"
+1,Abetifi,EA
+2,Abirem,EA
+3,Ablekuma Central,GA
+4,Ablekuma North,GA
+5,Ablekuma South,GA
+6,Ablekuma West,GA
+7,Abuakwa North,EA
+8,Abuakwa South,EA
+9,Abura-Asebu-Kwamankese,CN
+10,Achiase,EA
+11,Ada,GA
+12,Adaklu,VO
+13,Adansi-Akrofuom,AS
+14,Adansi-Asokwa,AS
+15,Adenta,GA
+16,Afadjato South,VO
+17,Afigya Kwabre North,AS
+18,Afigya Kwabre South,AS
+19,Afigya Sekyere East,AS
+20,Afram Plains North,EA
+21,Afram Plains South,EA
+22,Agona East,CN
+23,Agona West,CN
+24,Agotime Ziope,VO
+25,Ahafo Ano North,AS
+26,Ahafo Ano South East,AS
+27,Ahafo Ano South West,AS
+28,Ahanta West,WE
+29,Ajumako-Enyan-Essiam,CN
+30,Akan,OT
+31,Akatsi North,VO
+32,Akatsi South,VO
+33,Akim Oda,EA
+34,Akim Swedru,EA
+35,Akropong,EA
+36,Akwapim South,EA
+37,Akwatia,EA
+38,Amasaman,GA
+39,Amenfi Central,WE
+40,Amenfi East,WE
+41,Amenfi West,WE
+42,Anlo,VO
+43,Anyaa-Sowutuom,GA
+44,Aowin,WN
+45,Asante-Akim Central,AS
+46,Asante-Akim North,AS
+47,Asante-Akim South,AS
+48,Asawase,AS
+49,Asene/Manso/Akroso,EA
+50,Ashaiman,GA
+51,Asikuma-Odoben-Brakwa,CN
+52,Asokwa,AS
+53,Assin Central,CN
+54,Assin North,CN
+55,Assin South,CN
+56,Asunafo North,AH
+57,Asunafo South,AH
+58,Asuogyaman,EA
+59,Asutifi North,AH
+60,Asutifi South,AH
+61,Atebubu-Amantin,BE
+62,Atiwa East,EA
+63,Atiwa West,EA
+64,Atwima-Kwanwoma,AS
+65,Atwima-Mponua,AS
+66,Atwima-Nwabiagya North,AS
+67,Atwima-Nwabiagya South,AS
+68,Awutu-Senya-East,CN
+69,Awutu-Senya-West,CN
+70,Ayawaso Central,GA
+71,Ayawaso East,GA
+72,Ayawaso North,GA
+73,Ayawaso West Wugon,GA
+74,Ayensuano,EA
+75,Banda Ahenkro,BO
+76,Bantama,AS
+77,Bawku Central,UE
+78,Bekwai,AS
+79,Berekum East,BO
+80,Berekum West,BO
+81,Bia East,WN
+82,Bia West,WN
+83,Biakoye,OT
+84,Bibiani-Anhwiaso-Bekwai,WN
+85,Bimbilla,NO
+86,Binduri,UE
+87,Bodi,WN
+88,Bole Bamboi,SA
+89,Bolgatanga Central,UE
+90,Bolgatanga East,UE
+91,Bongo,UE
+92,Bortianor-Ngleshie-Amanfro,GA
+93,Bosome-Freho,AS
+94,Bosomtwe,AS
+95,Buem,OT
+96,Builsa North,UE
+97,Builsa South,UE
+98,Bunkpurugu,NE
+99,Cape Coast North,CN
+100,Cape Coast South,CN
+101,Central Tongu,VO
+102,Chereponi,NE
+103,Chiana-Paga,UE
+104,Daboya-Mankarigu,SA
+105,Dade Kotopon,GA
+106,Daffiama-Bussie-Issa,UW
+107,Damango,SA
+108,Dome Kwabenya,GA
+109,Domeabra-Obom,GA
+110,Dormaa Central,BO
+111,Dormaa East,BO
+112,Dormaa West,BO
+113,Effia,WE
+114,Effiduase-Asokore,AS
+115,Effutu,CN
+116,Ejisu,AS
+117,Ejura-Sekyedumase,AS
+118,Ekumfi,CN
+119,Ellembelle,WE
+120,Essikado-Ketan,WE
+121,Evalue-Ajomoro-Gwira,WE
+122,Fanteakwa North,EA
+123,Fanteakwa South,EA
+124,Fomena Adansi North,AS
+125,Garu,UE
+126,Gomoa Central,CN
+127,Gomoa East,CN
+128,Gomoa West,CN
+129,Gushegu,NO
+130,Hemang Lower Denkyira,CN
+131,Ho Central,VO
+132,Ho West,VO
+133,Hohoe,VO
+134,Jaman North,BO
+135,Jaman South,BO
+136,Jirapa,UW
+137,Jomoro,WE
+138,Juaben,AS
+139,Juaboso,WN
+140,Kade,EA
+141,Karaga,NO
+142,Keta,VO
+143,Ketu North,VO
+144,Ketu South,VO
+145,Kintampo North,BE
+146,Kintampo South,BE
+147,Komenda Edina Eguafo Abrem,CN
+148,Korle Klottey,GA
+149,Kpandai,NO
+150,Kpando,VO
+151,Kpone-Katamanso,GA
+152,Krachi East,OT
+153,Krachi Nchumuru,OT
+154,Krachi West,OT
+155,Krowor,GA
+156,Kumawu,AS
+157,Kumbungu,NO
+158,Kwabre East,AS
+159,Kwadaso,AS
+160,Kwesimintsim,WE
+161,Lambussie,UW
+162,Lawra,UW
+163,Ledzokuku,GA
+164,Lower Manya Krobo,EA
+165,Lower West Akim,EA
+166,Madina,GA
+167,Mampong,AS
+168,Manhyia North,AS
+169,Manhyia South,AS
+170,Manso Edubia,AS
+171,Manso Nkwanta,AS
+172,Mfantseman,CN
+173,Mion,NO
+174,Mpohor,WE
+175,Mpraeso,EA
+176,Nabdam,UE
+177,Nadowli Kaleo,UW
+178,Nalerigu/Gambiga,NE
+179,Nandom,UW
+180,Nanton,NO
+181,Navrongo Central,UE
+182,New Edubease,AS
+183,New Juaben North,EA
+184,New Juaben South,EA
+185,Nhyiaeso,AS
+186,Ningo-Prampram,GA
+187,Nkawkaw,EA
+188,Nkoranza North,BE
+189,Nkoranza South,BE
+190,Nkwanta North,OT
+191,Nkwanta South,OT
+192,North Dayi,VO
+193,North Tongu,VO
+194,Nsawam Adoagyiri,EA
+195,Nsuta-Kwamang-Beposo,AS
+196,Obuasi East,AS
+197,Obuasi West,AS
+198,Odododiodio,GA
+199,Odotobri,AS
+200,Offinso North,AS
+201,Offinso South,AS
+202,Ofoase-Ayirebi,EA
+203,Oforikrom,AS
+204,Okaikwei Central,GA
+205,Okaikwei North,GA
+206,Okaikwei South,GA
+207,Okere,EA
+208,Old Tafo,AS
+209,Prestea Huni-Valley,WE
+210,Pru East,BE
+211,Pru West,BE
+212,Pusiga,UE
+213,Saboba,NO
+214,Sagnarigu,NO
+215,Salaga North,SA
+216,Salaga South,SA
+217,Savelugu,NO
+218,Sawla-Tuna-Kalba,SA
+219,Sefwi Akontombra,WN
+220,Sefwi Wiawso,WN
+221,Sege,GA
+222,Sekondi,WE
+223,Sekyere Afram Plains,AS
+224,Sene East,BE
+225,Sene West,BE
+226,Shai-Osudoku,GA
+227,Shama,WE
+228,Sissala East,UW
+229,Sissala West,UW
+230,South Dayi,VO
+231,South Tongu,VO
+232,Suaman,WN
+233,Suame,AS
+234,Subin,AS
+235,Suhum,EA
+236,Sunyani East,BO
+237,Sunyani West,BO
+238,Tain,BO
+239,Takoradi,WE
+240,Talensi,UE
+241,Tamale Central,NO
+242,Tamale North,NO
+243,Tamale South,NO
+244,Tano North,AH
+245,Tano South,AH
+246,Tarkwa Nsuaem,WE
+247,Tatale-Sanguli,NO
+248,Techiman North,BE
+249,Techiman South,BE
+250,Tema Central,GA
+251,Tema East,GA
+252,Tema West,GA
+253,Tempane,UE
+254,Tolon,NO
+255,Trobu,GA
+256,Twifo-Atti Morkwaa,CN
+257,Upper Denkyira East,CN
+258,Upper Denkyira West,CN
+259,Upper Manya Krobo,EA
+260,Upper West Akim,EA
+261,Wa Central,UW
+262,Wa East,UW
+263,Wa West,UW
+264,Walewale,NE
+265,Wassa East,WE
+266,Weija Gbawe,GA
+267,Wenchi,BO
+268,Wulensi,NO
+269,Yagaba-Kubori,NE
+270,Yapei-Kusawgu,SA
+271,Yendi,NO
+272,Yilo Krobo,EA
+273,Yunyoo,NE
+274,Zabzugu,NO
+275,Zebilla,UE
